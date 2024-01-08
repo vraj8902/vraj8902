@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vraj123r@gmail.com**
 
-- 📄 Know about my experiences (more than a year of experience in Zoyride)
+- 📄 Know about my experiences (more than a year of experience in LogicFirst)
 
 - ⚡ Fun fact **I can code with my favorite music on, but if you catch me debugging, there's a 99% chance I'm listening to lo-fi beats! ☕🎧**
 
