@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React-Native,ReactJs and NodeJs**
 
-- 📫 How to reach me **vraj123r@gmail.com**
+- 📫 How to reach me **vrajraval.cs@gmail.com**
 
 - 📄 Know about my experiences (more than a year of experience in LogicFirst)
 
