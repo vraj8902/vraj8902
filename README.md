@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Vraj Raval</h1>
 <h3 align="center"> Tech Journeyman | Embracing Challenges, Unleashing Potential </h3>
+<img src="https://media1.giphy.com/media/abc123xyz456/giphy.gif" width="100%" />
 <img align="right" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"  width="400" />
 
                
