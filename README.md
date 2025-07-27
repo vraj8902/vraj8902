@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **vrajraval.cs@gmail.com**
 
-- ⚡ Fun fact **I can code with my favorite music on, but if you catch me debugging, there's a 99% chance I'm listening to lo-fi beats! ☕🎧**
+- ⚡ Fun fact: I can code with my favorite music on, but if you catch me debugging, there's a 99% chance I'm listening to KK, Atif Aslam, or Bullet for My Valentine! ☕🎧
+
 
 <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" width="100%" />
 <img align="right" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"  width="400" />
