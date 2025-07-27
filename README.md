@@ -2,13 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Vraj Raval</h1>
-<h3 align="center"> Tech Journeyman | Embracing Challenges, Unleashing Potential </h3>
-<img src="https://cdnb.artstation.com/p/assets/images/images/011/676/781/original/pixel-jeff-cafe.gif" width="100%" />
-<img align="right" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"  width="400" />
-
-               
-  
-
+<h3 align="center"> Tech Journeyman | Embracing Challenges | Unleashing Potential </h3>
 
 
 - 💬 Ask me about **React-Native,ReactJs and NodeJs**
@@ -16,6 +10,15 @@
 - 📫 How to reach me **vrajraval.cs@gmail.com**
 
 - ⚡ Fun fact **I can code with my favorite music on, but if you catch me debugging, there's a 99% chance I'm listening to lo-fi beats! ☕🎧**
+
+<img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" width="100%" />
+<img align="right" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"  width="400" />
+
+               
+  
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
