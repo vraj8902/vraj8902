@@ -1,10 +1,9 @@
 
 
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fmatrix-code-pixel-rainbow-pride-program-8tz6xxzfuyzq5prs.html&psig=AOvVaw1pz5F8YMBP-mnpUC82lGLL&ust=1753692418477000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCIur_T3I4DFQAAAAAdAAAAABB2)]()
 
 <h1 align="center">Hi 👋, I'm Vraj Raval</h1>
 <h3 align="center"> Tech Journeyman | Embracing Challenges, Unleashing Potential </h3>
-<img src="https://media1.giphy.com/media/abc123xyz456/giphy.gif" width="100%" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fartstation-coffee-break--833658581040569043%2F&psig=AOvVaw2Np0-b7BFvzOGUhcbgex4d&ust=1753692905795000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjt8KfV3I4DFQAAAAAdAAAAABAE" width="100%" />
 <img align="right" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"  width="400" />
 
                
